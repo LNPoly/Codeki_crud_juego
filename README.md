@@ -20,9 +20,8 @@ Proyecto CRUD de un creador de personajes de juegos (BÁSICO). A continuación s
         "life": 20000,
         "stamina": 5000,
         "mana": 0
-    }
-
-{
+    },
+    {
         "id": 3,
         "name": Andurien",
         "race": "Elf",
@@ -31,4 +30,5 @@ Proyecto CRUD de un creador de personajes de juegos (BÁSICO). A continuación s
         "life": 15000,
         "stamina": 0,
         "mana": 5000
- }
+     }
+]
